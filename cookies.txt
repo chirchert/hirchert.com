@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hirchert.com	TRUE	/	FALSE	1999999999	__cf_bm	ji7m0gpCFfMl_B0feDBswedFNsavoqIplT0IVKxr9.Q-1784663021.8121626-1.0.1.1-qBoQOtBeZlP9zmsvMBgLpcM0TOCAp_QUwbAVniwsnJdJlLNuXgjC4nD.7Q0ka5rHJTruW1kP4Tuav.tC7I045v2GltyIwu6oMGAP8TVb0_w9ca9RApO2eigWKxPYO.v8
+www.hirchert.com	TRUE	/	FALSE	1999999999	SameSite	None
+
